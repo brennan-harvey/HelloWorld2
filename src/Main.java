@@ -7,5 +7,8 @@ public class Main {
     	
     	// Original message from lab 1
     	System.out.println("Hello World!");
+    	
+    	// Goodbye message from lab 2
+    	System.out.println("See you later!");
     }
 }
