@@ -21,6 +21,9 @@ public class Main {
     	// Message to Charlie on CharlieBranch (lab2)
     	System.out.println("Hey Charlie!");
     	
+    	//Message to Denise on DeniseBranch (lab2)
+    	System.out.println("Hello Denise!");
+    	
     	// Goodbye message from lab 2
     	System.out.println("See you later!");
     	
