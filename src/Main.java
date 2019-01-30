@@ -16,5 +16,6 @@ public class Main {
     	
     	// Goodbye message from lab 2
     	System.out.println("See you later!");
+    	
     }
 }
