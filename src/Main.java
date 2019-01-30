@@ -14,6 +14,9 @@ public class Main {
     	// Message to Bob on BobBranch (lab2)
     	System.out.println("And hi to Bob too!");
     	
+    	//Message to Denise on DeniseBranch (lab2)
+    	System.out.println("Hello Denise!");
+    	
     	// Goodbye message from lab 2
     	System.out.println("See you later!");
     	
