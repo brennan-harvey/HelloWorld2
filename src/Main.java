@@ -2,6 +2,12 @@ public class Main {
 
     public static void main(String[] args) {
         
+    	// Issue #7 - Print free memory available to JVM
+    	System.out.println();
+    	System.out.println("There are " + Runtime.getRuntime().freeMemory() + " bytes of free memory available to JVM.");
+
+    	
+    	
     	// Preamble message from lab 2
     	System.out.println("Here ye : important announcement");
     	
